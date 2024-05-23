@@ -1,2 +1,2 @@
-# HW-C-
-C++ programs from Spring 2024
+# HW-C++
+Some C++ programs from Spring 2024 
